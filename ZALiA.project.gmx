@@ -11503,6 +11503,7 @@
   </datafiles>
   <NewExtensions>
     <extension index="0">extensions\GMSched</extension>
+    <extension index="1">extensions\NekoPresence</extension>
   </NewExtensions>
   <sounds name="sound">
     <sound>sound\snd_0</sound>
@@ -12867,6 +12868,7 @@
         <sprite>sprites\spr_Button_PlaystationX01</sprite>
         <sprite>sprites\spr_Button_PlaystationTriangle01</sprite>
         <sprite>sprites\spr_Button_PlaystationSquare01</sprite>
+        <sprite>sprites\spr_Discord</sprite>
         <sprite>sprites\spr_Menu_Selector_arrow_1a</sprite>
         <sprite>sprites\spr_arrow_1b</sprite>
         <sprite>sprites\spr_arrow_2a_WRB</sprite>
@@ -15395,6 +15397,7 @@
   <objects name="objects">
     <object>objects\obj_start</object>
     <object>objects\obj_view_init</object>
+    <object>objects\obj_nekoPresence</object>
     <objects name="audio">
       <object>objects\Audio</object>
       <object>objects\Sound</object>
